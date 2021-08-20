@@ -7,8 +7,6 @@ def main():
     dis = (vel * (min*60))/10
 
     print("Centímentros recorridos:", dis)
-    
-    pass
 
 if __name__ == '__main__':
     main()
