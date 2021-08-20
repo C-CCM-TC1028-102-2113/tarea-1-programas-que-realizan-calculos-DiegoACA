@@ -8,7 +8,7 @@ def main():
 
     print("Centímentros recorridos:", dis)
     
-    pass
+pass
 
 if __name__ == '__main__':
     main()
